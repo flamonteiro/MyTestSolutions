@@ -1,0 +1,9 @@
+Ligue o primeiro interruptor
+Vá até a sala das lampadas 
+verifique qual está acesa (atribua ao primeiro interruptor)
+volte a sala dos interruptores
+desligue o primeiro interruptor
+ligue o segundo
+vá até a sala das lampadas
+verifique qual está acesa (atribua ao segundo interruptor)
+logo, a lampada restante é ativada pelo interruptor nao tocado
